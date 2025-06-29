@@ -50,8 +50,14 @@ This project implements a Generative Adversarial Network (GAN) to perform **styl
 
 *(Add output visuals of T1 → T2 and T2 → T1 after training)*
 
+## 🎥 Style Transfer Demo
+
+![Style Transfer GIF](cyclegan_mri.gif)
+
 ## 📦 Requirements
 
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
+
+
